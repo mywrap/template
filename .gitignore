@@ -9,4 +9,5 @@
 profile*.pdf
 
 
-log_test_file*
+# config file with real password
+*ignore*.sh
